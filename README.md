@@ -28,4 +28,16 @@ Octotree 作为 Chrome 浏览器的一款插件，刚好解决这个使用痛点
 
 能够显示仓库中每个文件的大小，并直接下载，用起来非常舒服
 
+### Awesome Autocomplete
+在使用搜索功能的时候，提前给出搜索建议
+
+- https://github.com/algolia/github-awesome-autocomplete
+
+- https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd
+
+这里有一篇文章，给出了使用说明和动态图，写的还不错
+
+如何有效地使用 GitHub？ - 七月在线的回答 - 知乎
+https://www.zhihu.com/question/21248859/answer/733101486
+
 上面的插件谁用谁知道，真的爽。
